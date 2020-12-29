@@ -9,8 +9,6 @@ import datetime
 from zeep import Client as ZeepClient, Settings as ZeepSettings
 import xmltodict
 
-from django.conf import settings
-
 class MNB:
     def __init__(self):
         url = 'http://www.mnb.hu/arfolyamok.asmx?wsdl'
