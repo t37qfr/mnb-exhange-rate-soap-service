@@ -13,6 +13,6 @@ There is a thin Django based test file to help to use the class if you need some
 
 It is not a full solution, the file doesn't contain every available service (like get the exchange rate for a given day, you can only get the latest)
 
-The official documentation in Hungarian language is:
+The official documentation of the service (in Hungarian language):
 https://www.mnb.hu/letoltes/aktualis-es-a-regebbi-arfolyamok-webszolgaltatasanak-dokumentacioja-1.pdf
 
